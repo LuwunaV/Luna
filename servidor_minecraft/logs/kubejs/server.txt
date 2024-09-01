@@ -1,0 +1,57 @@
+[16:31:13] [INFO ] Loaded script server_scripts:tags.js in 0.048 s
+[16:31:13] [INFO ] Loaded script server_scripts:constants.js in 0.028 s
+[16:31:13] [INFO ] Loaded script server_scripts:unify.js in 0.054 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/ex_nihilo/ex_nihilo.js in 0.006 s
+[16:31:13] [INFO ] Loaded script server_scripts:sawmillCompat.js in 0.015 s
+[16:31:13] [INFO ] Loaded script server_scripts:stonecutting.js in 0.002 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/mekanism/cobalt.js in 0.003 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/mekanism/mekanism.js in 0.002 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/functionalstorge/compacting.js in 0.0 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/buildinggadgets/buildinggadgets.js in 0.0 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/projecte/projectE.js in 0.002 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/projecte/worldTransmute.js in 0.005 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/occultism/iesnium.js in 0.0 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/computercraft/computercraft.js in 0.0 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/reliquary/removals.js in 0.001 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/apotheosis/removals.js in 0.0 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/spirit/transmutation.js in 0.004 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/rftools/rftools.js in 0.001 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/twilightforest/twilight.js in 0.0 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/ae/ae.js in 0.001 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/notenoughwands/removals.js in 0.001 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/misc/tweaks.js in 0.002 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/misc/music_discs.js in 0.003 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/mysticalagriculture/ma_crafting.js in 0.001 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/mysticalagriculture/mysticalagriculture.js in 0.001 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/mysticalagriculture/ma_crops.js in 0.004 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/exmachinis/raw_ore.js in 0.001 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/exmachinis/pebble.js in 0.001 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/exmachinis/orepiece.js in 0.001 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/ATM/custom_recipes.js in 0.001 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/ATM/atm_star_creative.js in 0.006 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/ATM/atm_star.js in 0.005 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/ATM/atm_shard.js in 0.001 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/ATM/allthemodium.js in 0.002 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/ftbic/ftbic.js in 0.0 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/cobblefordays/cobblegen.js in 0.001 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/ex_nihilo/ex_nihilo_pebbles.js in 0.002 s
+[16:31:13] [INFO ] Loaded script server_scripts:mod_specific/thermal/rock_gen.js in 0.001 s
+[16:31:13] [INFO ] Loaded script server_scripts:craftingenhancements.js in 0.002 s
+[16:31:13] [INFO ] Loaded script server_scripts:xpFluids.js in 0.003 s
+[16:31:13] [INFO ] Loaded 40/40 KubeJS server scripts in 0.238 s
+[16:31:14] [INFO ] Scripts loaded
+[16:31:14] [WARN ] Failed to register handler for recipe type ars_nouveau:glyph_recipe as it doesn't exist!
+[16:31:14] [INFO ] Scanning recipes...
+[16:31:30] [INFO ] [entity_types] Found 87 tags, added 104 objects, removed 0 objects
+[16:31:31] [INFO ] [blocks] Found 1238 tags, added 1720 objects, removed 0 objects
+[16:31:31] [INFO ] [blocks] Found 1238 tags, added 1720 objects, removed 0 objects
+[16:31:35] [INFO ] [items] Found 3056 tags, added 560 objects, removed 3 objects
+[16:31:36] [INFO ] [items] Found 3056 tags, added 560 objects, removed 3 objects
+[16:32:06] [INFO ] Found 31449 recipes and 0 failed recipes in 1.400 s
+[16:32:26] [INFO ] Posted recipe events in 20.09 s
+[16:32:26] [WARN ] Error parsing recipe occultism:aluminum_dust_from_ingot[occultism:crushing]: {"type":"occultism:crushing","conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ingots/aluminum"}},{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:dusts/aluminum"}}],"ingredient":{"tag":"forge:ingots/aluminum"},"result":{"tag":"forge:dusts/aluminum","count":1,"item":"minecraft:dirt"},"crushing_time":200,"ignore_crushing_multiplier":true}: com.google.gson.JsonParseException: An ingredient entry is either a tag or an item, not both
+[16:32:27] [WARN ] Error parsing recipe occultism:aluminum_dust[occultism:crushing]: {"type":"occultism:crushing","conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:ores/aluminum"}},{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:dusts/aluminum"}}],"ingredient":{"tag":"forge:ores/aluminum"},"result":{"tag":"forge:dusts/aluminum","count":2,"item":"minecraft:dirt"},"crushing_time":200,"ignore_crushing_multiplier":false}: com.google.gson.JsonParseException: An ingredient entry is either a tag or an item, not both
+[16:32:27] [WARN ] Error parsing recipe occultism:aluminum_dust_from_raw[occultism:crushing]: {"type":"occultism:crushing","conditions":[{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:raw_materials/aluminum"}},{"type":"forge:not","value":{"type":"forge:tag_empty","tag":"forge:dusts/aluminum"}}],"ingredient":{"tag":"forge:raw_materials/aluminum"},"result":{"tag":"forge:dusts/aluminum","count":2,"item":"minecraft:dirt"},"crushing_time":200,"ignore_crushing_multiplier":false}: com.google.gson.JsonParseException: An ingredient entry is either a tag or an item, not both
+[16:32:27] [INFO ] Modified & removed recipes in 458.5 ms
+[16:32:27] [INFO ] Added recipes in 28.80 ms
+[16:32:27] [INFO ] Added 2088 recipes, removed 1367 recipes, modified 1 recipes, with 3 failed recipes and 0 fall-backed recipes
